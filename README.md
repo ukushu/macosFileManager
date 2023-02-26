@@ -2,7 +2,7 @@
 
 project based on https://www.kodeco.com/830-macos-nstableview-tutorial
 
-with fixed code for Swift 5.0
+with fixed code for Swift 5.0 / XCode 14.2
 
 [![enter image description here][1]][1]
 
